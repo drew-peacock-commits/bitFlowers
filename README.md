@@ -68,7 +68,7 @@ sudo add-apt-repository ppa:bitcoin/bitcoin
 
 sudo apt-get update
 
-sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
+sudo apt-get install libdb5.3-dev libdb5.3++-dev -y
 
 sudo apt-get install libminiupnpc-dev -y
 
@@ -82,7 +82,7 @@ sudo apt-get install libqrencode-dev -y
 
 sudo apt-get install libboost-all-dev -y
 
-sudo apt-get install libssl1.0 -y
+sudo apt-get install libssl1.1 -y
 
 sudo apt-get install qtcreator
 
